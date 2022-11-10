@@ -1,0 +1,41 @@
+\documentclass{article}
+%\usepackage[utf8]{inputenc}
+
+\usepackage[style=alphabetic,
+isbn=false,
+backref,
+giveninits=true,
+url=false
+]{biblatex}
+\usepackage{hyperref}
+
+\title{Testing for Git integration}
+\author{Aron Heleodoro}
+\date{\today}
+
+\addbibresource{biblio-test.bib}
+
+\begin{document}
+\maketitle
+
+List of references and common definitions file.
+
+Example \cite{benjamin_hennion_higher_2017}, \cite{heleodoro_geometry_2018}, \cite{Raskin-D-modules} and \cite{HA}.
+
+And try again with \cite{heleodoro_geometry_2018}.
+
+Finally, one more \cite{elmanto2020nilpotent}.
+
+One more me: \cite{heleodoro2020prestacks}.
+
+Let's see other journals: \cite{AGH}.
+
+Take a look: \cites{shirane2020double,shirane2020arXiv201009243S}
+
+% \nocite{*}
+% \bibliographystyle{unsrt}
+% \bibliography{biblio}
+
+\printbibliography
+
+\end{document}
