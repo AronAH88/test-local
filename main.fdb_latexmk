@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber main"] 1668076010 "main.bcf" "main.bbl" "main" 1668076013
+["biber main"] 1668076010 "main.bcf" "main.bbl" "main" 1668077172
   "biblio-test.bib" 1668075960 4182 4a355efaa65ba6834e08d8546ba22795 ""
-  "main.bcf" 1668076013 91162 d0671a560be1610aad6d552aedca8c31 ""
+  "main.bcf" 1668077172 91162 d0671a560be1610aad6d552aedca8c31 ""
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1668076012 "main.tex" "/Users/aronheleodoro/Desktop/projects/main.pdf" "main" 1668076013
-  "/Users/aronheleodoro/Desktop/projects/main.aux" 1668076013 2997 f414ec39834fc1ea1b70daa678f60623 ""
+  "main.blg"
+["pdflatex"] 1668077171 "main.tex" "/Users/aronheleodoro/Desktop/projects/main.pdf" "main" 1668077172
+  "/Users/aronheleodoro/Desktop/projects/main.aux" 1668077172 2997 50e6e99f557e7d99087872f0f33c8535 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1480098701 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -72,17 +72,17 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "main.aux" 1668076013 2997 f414ec39834fc1ea1b70daa678f60623 ""
+  "main.aux" 1668077172 2997 50e6e99f557e7d99087872f0f33c8535 ""
   "main.bbl" 1668076011 13154 c539e1690379a87798c48ec7a674b3f4 "biber main"
-  "main.out" 1668076013 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "main.run.xml" 1668076013 2312 f60427a7fbd8b257832c3b82ea303fed ""
-  "main.tex" 1668076009 835 443efeb4cd0c4f0e43fcc2a9571890d7 ""
+  "main.out" 1668077171 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "main.run.xml" 1668077172 2312 f60427a7fbd8b257832c3b82ea303fed ""
+  "main.tex" 1668077170 867 fee283b5e5c38a1810dd7512a21bb8b9 ""
   (generated)
+  "main.bcf"
+  "main.pdf"
+  "main.aux"
+  "main.out"
+  "/Users/aronheleodoro/Desktop/projects/main.pdf"
   "main.run.xml"
   "/Users/aronheleodoro/Desktop/projects/main.log"
-  "main.out"
-  "main.bcf"
   "main.log"
-  "/Users/aronheleodoro/Desktop/projects/main.pdf"
-  "main.aux"
-  "main.pdf"
